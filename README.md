@@ -107,8 +107,7 @@ ret
 
 ```
 ## Output  :
- <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e468730c-1c9a-4d3c-bc2e-f42fa67e88ef" />
- <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/7e499b79-430e-4a90-8841-de8124b01f49" />
+<img width="1885" height="1053" alt="Screenshot 2026-02-04 092450" src="https://github.com/user-attachments/assets/6ec95c69-0ad0-4856-bbc1-a2ab410122c3" />
 
 # Program for logical operation:
 ```
@@ -143,10 +142,7 @@ MOV [5008H], AX
 RET
 ```
 # Output:
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/d1e80222-d582-4675-b950-0a3866f01ace" />
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/33eba2e9-0b09-42e3-abfb-b18524218597" />
-
-
+<img width="1847" height="1117" alt="image" src="https://github.com/user-attachments/assets/12e92f00-a4a0-42fb-9002-285b2e35ef59" />
 
 
  
